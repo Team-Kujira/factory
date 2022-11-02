@@ -19,3 +19,9 @@ undermining the basic principles of a semi permissioned chain.
 
 This contract acts as a generic "factory" contract. Once instantiated itself, its own address can be used in the `tx gov submit-proposal update-instantiate-config` command.
 It restricts the `admin` address to only that supplied during Instantiate, typically set to the governance module, so that any contracts instantiated via this method can _only_ be migrated via a governance vote.
+
+## Deployments
+
+### Testnet
+
+Code ID 261
