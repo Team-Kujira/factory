@@ -1,0 +1,1 @@
+ea79d4e90a87d86ad71de07722b6f1d382a5782eae72d555080ddf29475174ee  kujira_factory.wasm

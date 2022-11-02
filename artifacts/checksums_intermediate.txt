@@ -1,0 +1,1 @@
+9fffc1cc2179f7597858674a401407aee59b9d9a67e4e648b6d9466b2a1e8064  ./target/wasm32-unknown-unknown/release/kujira_factory.wasm
